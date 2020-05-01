@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "807978743480",
+    "firebase_url": "https://image-d6bd4.firebaseio.com",
+    "project_id": "image-d6bd4",
+    "storage_bucket": "image-d6bd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807978743480:android:2ec5c45725a984692e264d",
+        "android_client_info": {
+          "package_name": "com.example.los_7_pasos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807978743480-hukq8k7f5idb9cjspu6r0a1e0shavksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRDNVb36uj3WZUptO0Qw3VMmBeP9caio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807978743480-hukq8k7f5idb9cjspu6r0a1e0shavksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807978743480:android:0a1432434611d72b2e264d",
+        "android_client_info": {
+          "package_name": "com.siete.pasos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807978743480-hukq8k7f5idb9cjspu6r0a1e0shavksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWRDNVb36uj3WZUptO0Qw3VMmBeP9caio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807978743480-hukq8k7f5idb9cjspu6r0a1e0shavksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
